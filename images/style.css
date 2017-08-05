@@ -1,0 +1,40 @@
+html {
+    display: block;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+   
+    font-weight: bold;
+}
+body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
+}
+body {
+    display: block;
+    margin: 8px;
+}
+div {
+    color: blue;
+}
+
+div {
+    display: block;
+}
+img {
+    vertical-align: baseline;
+    height: 200px;
+    width: 200px;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+footer {
+    color: green;
+}
